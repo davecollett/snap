@@ -687,7 +687,7 @@ void print_json_observations( FILE *out )
         if( ncvrrow )
         {
             fprintf( out, ",\n  \"covariance\": " );
-            print_ltmat_json(out,sd->cvr,ncvrrow,"%.10lf",4);
+            print_ltmat_json(out,sd->cvr,ncvrrow,"%15.8le",4);
         }
         fprintf( out, "\n  }");
     }

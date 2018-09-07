@@ -1,6 +1,6 @@
 ================================================================================
 
-                      PROGRAM SNAP  Version 2.7.14-3f3f047
+                      PROGRAM SNAP  Version 2.7.14-f49fb6c
 
                        Survey Network Adjustment Program
 
@@ -9,7 +9,7 @@
                        Version date: Sep  5 2018 13:25:47
 
 ================================================================================
-                     Run at  7-SEP-2018 09:39:23 by ccrook
+                     Run at  7-SEP-2018 14:38:03 by ccrook
 
 
 The command file test1csv.snp contains:
@@ -46,7 +46,7 @@ The command file test1csv.snp contains:
 
 
 ================================================================================
-Regression test 1csv - CSV format data/coords                7-SEP-2018 09:39:23
+Regression test 1csv - CSV format data/coords                7-SEP-2018 14:38:03
 
                              SUMMARY OF INPUT FILES
 
@@ -87,7 +87,7 @@ Data file 1: testobs.csv
 
 
 ================================================================================
-Regression test 1csv - CSV format data/coords                7-SEP-2018 09:39:23
+Regression test 1csv - CSV format data/coords                7-SEP-2018 14:38:03
 
                                    INPUT DATA
 
@@ -1641,9 +1641,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006768056,-0.0000675091,0.0002459007],
-        [-0.0000675091,0.0001079012,-0.0000287801],
-        [0.0002459007,-0.0000287801,0.0006152931]
+        [ 6.76805629e-04,-6.75090503e-05, 2.45900672e-04],
+        [-6.75090503e-05, 1.07901226e-04,-2.87800950e-05],
+        [ 2.45900672e-04,-2.87800950e-05, 6.15293145e-04]
       ]
     
   },
@@ -1670,9 +1670,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006768073,-0.0000674837,0.0002459025],
-        [-0.0000674837,0.0001078953,-0.0000287694],
-        [0.0002459025,-0.0000287694,0.0006152975]
+        [ 6.76807256e-04,-6.74837275e-05, 2.45902529e-04],
+        [-6.74837275e-05, 1.07895278e-04,-2.87694357e-05],
+        [ 2.45902529e-04,-2.87694357e-05, 6.15297466e-04]
       ]
     
   },
@@ -1699,9 +1699,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006768056,-0.0000675091,0.0002459007],
-        [-0.0000675091,0.0001079012,-0.0000287801],
-        [0.0002459007,-0.0000287801,0.0006152931]
+        [ 6.76805629e-04,-6.75090503e-05, 2.45900672e-04],
+        [-6.75090503e-05, 1.07901226e-04,-2.87800950e-05],
+        [ 2.45900672e-04,-2.87800950e-05, 6.15293145e-04]
       ]
     
   },
@@ -1728,9 +1728,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006768073,-0.0000674837,0.0002459025],
-        [-0.0000674837,0.0001078953,-0.0000287694],
-        [0.0002459025,-0.0000287694,0.0006152975]
+        [ 6.76807256e-04,-6.74837275e-05, 2.45902529e-04],
+        [-6.74837275e-05, 1.07895278e-04,-2.87694357e-05],
+        [ 2.45902529e-04,-2.87694357e-05, 6.15297466e-04]
       ]
     
   },
@@ -1757,9 +1757,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006768056,-0.0000675091,0.0002459007],
-        [-0.0000675091,0.0001079012,-0.0000287801],
-        [0.0002459007,-0.0000287801,0.0006152931]
+        [ 6.76805629e-04,-6.75090503e-05, 2.45900672e-04],
+        [-6.75090503e-05, 1.07901226e-04,-2.87800950e-05],
+        [ 2.45900672e-04,-2.87800950e-05, 6.15293145e-04]
       ]
     
   },
@@ -1786,9 +1786,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006768073,-0.0000674837,0.0002459025],
-        [-0.0000674837,0.0001078953,-0.0000287694],
-        [0.0002459025,-0.0000287694,0.0006152975]
+        [ 6.76807256e-04,-6.74837275e-05, 2.45902529e-04],
+        [-6.74837275e-05, 1.07895278e-04,-2.87694357e-05],
+        [ 2.45902529e-04,-2.87694357e-05, 6.15297466e-04]
       ]
     
   },
@@ -1815,9 +1815,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006768056,-0.0000675091,0.0002459007],
-        [-0.0000675091,0.0001079012,-0.0000287801],
-        [0.0002459007,-0.0000287801,0.0006152931]
+        [ 6.76805629e-04,-6.75090503e-05, 2.45900672e-04],
+        [-6.75090503e-05, 1.07901226e-04,-2.87800950e-05],
+        [ 2.45900672e-04,-2.87800950e-05, 6.15293145e-04]
       ]
     
   },
@@ -1844,9 +1844,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006768073,-0.0000674837,0.0002459025],
-        [-0.0000674837,0.0001078953,-0.0000287694],
-        [0.0002459025,-0.0000287694,0.0006152975]
+        [ 6.76807256e-04,-6.74837275e-05, 2.45902529e-04],
+        [-6.74837275e-05, 1.07895278e-04,-2.87694357e-05],
+        [ 2.45902529e-04,-2.87694357e-05, 6.15297466e-04]
       ]
     
   },
@@ -1873,9 +1873,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006769896,-0.0000000145,0.0000000632],
-        [-0.0000000145,0.0001078753,-0.0000000114],
-        [0.0000000632,-0.0000000114,0.0006154469]
+        [ 6.76989558e-04,-1.44638369e-08, 6.31658706e-08],
+        [-1.44638369e-08, 1.07875319e-04,-1.14050088e-08],
+        [ 6.31658706e-08,-1.14050088e-08, 6.15446923e-04]
       ]
     
   },
@@ -1902,9 +1902,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006769807,-0.0000000270,0.0000000640],
-        [-0.0000000270,0.0001078842,-0.0000000083],
-        [0.0000000640,-0.0000000083,0.0006154469]
+        [ 6.76980683e-04,-2.70384750e-08, 6.39981857e-08],
+        [-2.70384750e-08, 1.07884193e-04,-8.33770769e-09],
+        [ 6.39981857e-08,-8.33770769e-09, 6.15446924e-04]
       ]
     
   },
@@ -1931,9 +1931,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006769896,-0.0000000145,0.0000000632],
-        [-0.0000000145,0.0001078753,-0.0000000114],
-        [0.0000000632,-0.0000000114,0.0006154469]
+        [ 6.76989558e-04,-1.44638369e-08, 6.31658706e-08],
+        [-1.44638369e-08, 1.07875319e-04,-1.14050088e-08],
+        [ 6.31658706e-08,-1.14050088e-08, 6.15446923e-04]
       ]
     
   },
@@ -1960,9 +1960,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006769807,-0.0000000270,0.0000000640],
-        [-0.0000000270,0.0001078842,-0.0000000083],
-        [0.0000000640,-0.0000000083,0.0006154469]
+        [ 6.76980683e-04,-2.70384750e-08, 6.39981857e-08],
+        [-2.70384750e-08, 1.07884193e-04,-8.33770769e-09],
+        [ 6.39981857e-08,-8.33770769e-09, 6.15446924e-04]
       ]
     
   },
@@ -1989,9 +1989,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0004007619,0.0000323355,0.0002496305],
-        [0.0000323355,0.0006732559,-0.0000292166],
-        [0.0002496305,-0.0000292166,0.0003265108]
+        [ 4.00761920e-04, 3.23354989e-05, 2.49630493e-04],
+        [ 3.23354989e-05, 6.73255869e-04,-2.92166315e-05],
+        [ 2.49630493e-04,-2.92166315e-05, 3.26510811e-04]
       ]
     
   },
@@ -2018,9 +2018,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0004007548,0.0000323241,0.0002496324],
-        [0.0000323241,0.0006732586,-0.0000292058],
-        [0.0002496324,-0.0000292058,0.0003265152]
+        [ 4.00754770e-04, 3.23241151e-05, 2.49632378e-04],
+        [ 3.23241151e-05, 6.73258631e-04,-2.92058105e-05],
+        [ 2.49632378e-04,-2.92058105e-05, 3.26515198e-04]
       ]
     
   },
@@ -2047,9 +2047,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0004007619,0.0000323355,0.0002496305],
-        [0.0000323355,0.0006732559,-0.0000292166],
-        [0.0002496305,-0.0000292166,0.0003265108]
+        [ 4.00761920e-04, 3.23354989e-05, 2.49630493e-04],
+        [ 3.23354989e-05, 6.73255869e-04,-2.92166315e-05],
+        [ 2.49630493e-04,-2.92166315e-05, 3.26510811e-04]
       ]
     
   },
@@ -2076,9 +2076,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0004007548,0.0000323241,0.0002496324],
-        [0.0000323241,0.0006732586,-0.0000292058],
-        [0.0002496324,-0.0000292058,0.0003265152]
+        [ 4.00754770e-04, 3.23241151e-05, 2.49632378e-04],
+        [ 3.23241151e-05, 6.73258631e-04,-2.92058105e-05],
+        [ 2.49632378e-04,-2.92058105e-05, 3.26515198e-04]
       ]
     
   },
@@ -2105,9 +2105,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0065039840,-0.0007050385,0.0044793481],
-        [-0.0007050385,0.0005625655,-0.0005242607],
-        [0.0044793481,-0.0005242607,0.0053220551]
+        [ 6.50398400e-03,-7.05038528e-04, 4.47934813e-03],
+        [-7.05038528e-04, 5.62565466e-04,-5.24260727e-04],
+        [ 4.47934813e-03,-5.24260727e-04, 5.32205514e-03]
       ]
     
   },
@@ -2134,9 +2134,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.4669083631,-0.0441131715,0.1918025239],
-        [-0.0441131715,0.0951629841,-0.0224484741],
-        [0.1918025239,-0.0224484741,0.4179286527]
+        [ 4.66908363e-01,-4.41131715e-02, 1.91802524e-01],
+        [-4.41131715e-02, 9.51629841e-02,-2.24484741e-02],
+        [ 1.91802524e-01,-2.24484741e-02, 4.17928653e-01]
       ]
     
   },
@@ -2163,9 +2163,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0096403166,-0.0010654417,0.0069365823],
-        [-0.0010654417,0.0006582617,-0.0008115474],
-        [0.0069365823,-0.0008115474,0.0078071439]
+        [ 9.64031657e-03,-1.06544170e-03, 6.93658226e-03],
+        [-1.06544170e-03, 6.58261652e-04,-8.11547396e-04],
+        [ 6.93658226e-03,-8.11547396e-04, 7.80714388e-03]
       ]
     
   },
@@ -2192,9 +2192,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0065039840,-0.0007050385,0.0044793481],
-        [-0.0007050385,0.0005625655,-0.0005242607],
-        [0.0044793481,-0.0005242607,0.0053220551]
+        [ 6.50398400e-03,-7.05038528e-04, 4.47934813e-03],
+        [-7.05038528e-04, 5.62565466e-04,-5.24260727e-04],
+        [ 4.47934813e-03,-5.24260727e-04, 5.32205514e-03]
       ]
     
   },
@@ -2221,9 +2221,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0096403166,-0.0010654417,0.0069365823],
-        [-0.0010654417,0.0006582617,-0.0008115474],
-        [0.0069365823,-0.0008115474,0.0078071439]
+        [ 9.64031657e-03,-1.06544170e-03, 6.93658226e-03],
+        [-1.06544170e-03, 6.58261652e-04,-8.11547396e-04],
+        [ 6.93658226e-03,-8.11547396e-04, 7.80714388e-03]
       ]
     
   },
@@ -2248,9 +2248,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006767801,-0.0000675060,0.0002459031],
-        [-0.0000675060,0.0001079009,-0.0000287910],
-        [0.0002459031,-0.0000287910,0.0006153191]
+        [ 6.76780065e-04,-6.75060150e-05, 2.45903056e-04],
+        [-6.75060150e-05, 1.07900864e-04,-2.87909749e-05],
+        [ 2.45903056e-04,-2.87909749e-05, 6.15319071e-04]
       ]
     
   },
@@ -2275,9 +2275,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006767808,-0.0000674704,0.0002459071],
-        [-0.0000674704,0.0001078925,-0.0000287656],
-        [0.0002459071,-0.0000287656,0.0006153266]
+        [ 6.76780835e-04,-6.74704342e-05, 2.45907097e-04],
+        [-6.74704342e-05, 1.07892529e-04,-2.87656205e-05],
+        [ 2.45907097e-04,-2.87656205e-05, 6.15326636e-04]
       ]
     
   },
@@ -2302,9 +2302,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006767801,-0.0000675060,0.0002459031],
-        [-0.0000675060,0.0001079009,-0.0000287910],
-        [0.0002459031,-0.0000287910,0.0006153191]
+        [ 6.76780065e-04,-6.75060150e-05, 2.45903056e-04],
+        [-6.75060150e-05, 1.07900864e-04,-2.87909749e-05],
+        [ 2.45903056e-04,-2.87909749e-05, 6.15319071e-04]
       ]
     
   },
@@ -2329,9 +2329,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006767808,-0.0000674704,0.0002459071],
-        [-0.0000674704,0.0001078925,-0.0000287656],
-        [0.0002459071,-0.0000287656,0.0006153266]
+        [ 6.76780835e-04,-6.74704342e-05, 2.45907097e-04],
+        [-6.74704342e-05, 1.07892529e-04,-2.87656205e-05],
+        [ 2.45907097e-04,-2.87656205e-05, 6.15326636e-04]
       ]
     
   },
@@ -2356,9 +2356,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006767801,-0.0000675060,0.0002459031],
-        [-0.0000675060,0.0001079009,-0.0000287910],
-        [0.0002459031,-0.0000287910,0.0006153191]
+        [ 6.76780065e-04,-6.75060150e-05, 2.45903056e-04],
+        [-6.75060150e-05, 1.07900864e-04,-2.87909749e-05],
+        [ 2.45903056e-04,-2.87909749e-05, 6.15319071e-04]
       ]
     
   },
@@ -2383,9 +2383,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006767808,-0.0000674704,0.0002459071],
-        [-0.0000674704,0.0001078925,-0.0000287656],
-        [0.0002459071,-0.0000287656,0.0006153266]
+        [ 6.76780835e-04,-6.74704342e-05, 2.45907097e-04],
+        [-6.74704342e-05, 1.07892529e-04,-2.87656205e-05],
+        [ 2.45907097e-04,-2.87656205e-05, 6.15326636e-04]
       ]
     
   },
@@ -2410,9 +2410,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006767801,-0.0000675060,0.0002459031],
-        [-0.0000675060,0.0001079009,-0.0000287910],
-        [0.0002459031,-0.0000287910,0.0006153191]
+        [ 6.76780065e-04,-6.75060150e-05, 2.45903056e-04],
+        [-6.75060150e-05, 1.07900864e-04,-2.87909749e-05],
+        [ 2.45903056e-04,-2.87909749e-05, 6.15319071e-04]
       ]
     
   },
@@ -2437,9 +2437,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006767808,-0.0000674704,0.0002459071],
-        [-0.0000674704,0.0001078925,-0.0000287656],
-        [0.0002459071,-0.0000287656,0.0006153266]
+        [ 6.76780835e-04,-6.74704342e-05, 2.45907097e-04],
+        [-6.74704342e-05, 1.07892529e-04,-2.87656205e-05],
+        [ 2.45907097e-04,-2.87656205e-05, 6.15326636e-04]
       ]
     
   },
@@ -2464,9 +2464,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006769943,-0.0000000292,0.0000000685],
-        [-0.0000000292,0.0001078706,0.0000000095],
-        [0.0000000685,0.0000000095,0.0006154469]
+        [ 6.76994312e-04,-2.91680701e-08, 6.84515797e-08],
+        [-2.91680701e-08, 1.07870559e-04, 9.49030438e-09],
+        [ 6.84515797e-08, 9.49030438e-09, 6.15446930e-04]
       ]
     
   },
@@ -2491,9 +2491,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006769807,-0.0000000171,0.0000000603],
-        [-0.0000000171,0.0001078842,-0.0000000119],
-        [0.0000000603,-0.0000000119,0.0006154469]
+        [ 6.76980691e-04,-1.71091848e-08, 6.02646167e-08],
+        [-1.71091848e-08, 1.07884192e-04,-1.19380685e-08],
+        [ 6.02646167e-08,-1.19380685e-08, 6.15446916e-04]
       ]
     
   },
@@ -2518,9 +2518,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006769943,-0.0000000292,0.0000000685],
-        [-0.0000000292,0.0001078706,0.0000000095],
-        [0.0000000685,0.0000000095,0.0006154469]
+        [ 6.76994312e-04,-2.91680701e-08, 6.84515797e-08],
+        [-2.91680701e-08, 1.07870559e-04, 9.49030438e-09],
+        [ 6.84515797e-08, 9.49030438e-09, 6.15446930e-04]
       ]
     
   },
@@ -2545,9 +2545,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0006769807,-0.0000000171,0.0000000603],
-        [-0.0000000171,0.0001078842,-0.0000000119],
-        [0.0000000603,-0.0000000119,0.0006154469]
+        [ 6.76980691e-04,-1.71091848e-08, 6.02646167e-08],
+        [-1.71091848e-08, 1.07884192e-04,-1.19380685e-08],
+        [ 6.02646167e-08,-1.19380685e-08, 6.15446916e-04]
       ]
     
   },
@@ -2572,9 +2572,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0004007399,0.0000323552,0.0002496324],
-        [0.0000323552,0.0006732516,-0.0000292323],
-        [0.0002496324,-0.0000292323,0.0003265371]
+        [ 4.00739908e-04, 3.23551855e-05, 2.49632371e-04],
+        [ 3.23551855e-05, 6.73251561e-04,-2.92323102e-05],
+        [ 2.49632371e-04,-2.92323102e-05, 3.26537130e-04]
       ]
     
   },
@@ -2599,9 +2599,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0004007839,0.0000323158,0.0002496286],
-        [0.0000323158,0.0006732602,-0.0000292010],
-        [0.0002496286,-0.0000292010,0.0003264845]
+        [ 4.00783935e-04, 3.23158165e-05, 2.49628611e-04],
+        [ 3.23158165e-05, 6.73260174e-04,-2.92009543e-05],
+        [ 2.49628611e-04,-2.92009543e-05, 3.26484491e-04]
       ]
     
   },
@@ -2626,9 +2626,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0004007399,0.0000323552,0.0002496324],
-        [0.0000323552,0.0006732516,-0.0000292323],
-        [0.0002496324,-0.0000292323,0.0003265371]
+        [ 4.00739908e-04, 3.23551855e-05, 2.49632371e-04],
+        [ 3.23551855e-05, 6.73251561e-04,-2.92323102e-05],
+        [ 2.49632371e-04,-2.92323102e-05, 3.26537130e-04]
       ]
     
   },
@@ -2653,9 +2653,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0004007839,0.0000323158,0.0002496286],
-        [0.0000323158,0.0006732602,-0.0000292010],
-        [0.0002496286,-0.0000292010,0.0003264845]
+        [ 4.00783935e-04, 3.23158165e-05, 2.49628611e-04],
+        [ 3.23158165e-05, 6.73260174e-04,-2.92009543e-05],
+        [ 2.49628611e-04,-2.92009543e-05, 3.26484491e-04]
       ]
     
   },
@@ -2680,9 +2680,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0096388730,-0.0009413636,0.0053114945],
-        [-0.0009413636,0.0017102350,-0.0006219837],
-        [0.0053114945,-0.0006219837,0.0082508919]
+        [ 9.63887304e-03,-9.41363611e-04, 5.31149446e-03],
+        [-9.41363611e-04, 1.71023503e-03,-6.21983652e-04],
+        [ 5.31149446e-03,-6.21983652e-04, 8.25089193e-03]
       ]
     
   },
@@ -2707,9 +2707,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.4668830232,-0.0441335448,0.1918039667],
-        [-0.0441335448,0.0951681017,-0.0224605208],
-        [0.1918039667,-0.0224605208,0.4179488751]
+        [ 4.66883023e-01,-4.41335448e-02, 1.91803967e-01],
+        [-4.41335448e-02, 9.51681017e-02,-2.24605208e-02],
+        [ 1.91803967e-01,-2.24605208e-02, 4.17948875e-01]
       ]
     
   },
@@ -2734,9 +2734,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0096402078,-0.0009405242,0.0053114145],
-        [-0.0009405242,0.0017100203,-0.0006213165],
-        [0.0053114145,-0.0006213165,0.0082497719]
+        [ 9.64020784e-03,-9.40524166e-04, 5.31141447e-03],
+        [-9.40524166e-04, 1.71002025e-03,-6.21316483e-04],
+        [ 5.31141447e-03,-6.21316483e-04, 8.24977191e-03]
       ]
     
   },
@@ -2761,9 +2761,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0096388730,-0.0009413636,0.0053114945],
-        [-0.0009413636,0.0017102350,-0.0006219837],
-        [0.0053114945,-0.0006219837,0.0082508919]
+        [ 9.63887304e-03,-9.41363611e-04, 5.31149446e-03],
+        [-9.41363611e-04, 1.71023503e-03,-6.21983652e-04],
+        [ 5.31149446e-03,-6.21983652e-04, 8.25089193e-03]
       ]
     
   },
@@ -2788,9 +2788,9 @@ BEGIN_JSON observations
       }
     ],
   "covariance": [
-        [0.0096402078,-0.0009405242,0.0053114145],
-        [-0.0009405242,0.0017100203,-0.0006213165],
-        [0.0053114145,-0.0006213165,0.0082497719]
+        [ 9.64020784e-03,-9.40524166e-04, 5.31141447e-03],
+        [-9.40524166e-04, 1.71002025e-03,-6.21316483e-04],
+        [ 5.31141447e-03,-6.21316483e-04, 8.24977191e-03]
       ]
     
   }
@@ -2801,7 +2801,7 @@ END_JSON observations
 
 
 ================================================================================
-Regression test 1csv - CSV format data/coords                7-SEP-2018 09:39:23
+Regression test 1csv - CSV format data/coords                7-SEP-2018 14:38:03
 
                              DEFINITION OF PROBLEM
 
@@ -2825,7 +2825,7 @@ Station  Adj  Row  Name
 
 
 ================================================================================
-Regression test 1csv - CSV format data/coords                7-SEP-2018 09:39:23
+Regression test 1csv - CSV format data/coords                7-SEP-2018 14:38:03
 
                              OBSERVATION EQUATIONS
 
@@ -2836,7 +2836,7 @@ BEGIN_JSON obs_equation_1
   "nparam":0,
   "obs_equations": [
 {
-  "source": {"file": "testobs.csv","lineno": 2, "station": "1 - 2", "type": "HA","nobs": 2},
+  "source": {"file": "testobs.csv","lineno": 2, "station": "1 - 2", "obsid": 1, "type": "HA","nobs": 2},
   "nobs": 2,
   "obs": [
    {
@@ -2861,7 +2861,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 4, "station": "2 - 1", "type": "HA","nobs": 2},
+  "source": {"file": "testobs.csv","lineno": 4, "station": "2 - 1", "obsid": 3, "type": "HA","nobs": 2},
   "nobs": 2,
   "obs": [
    {
@@ -2886,7 +2886,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 6, "station": "2 - 1", "type": "HA","nobs": 2},
+  "source": {"file": "testobs.csv","lineno": 6, "station": "2 - 1", "obsid": 5, "type": "HA","nobs": 2},
   "nobs": 2,
   "obs": [
    {
@@ -2911,7 +2911,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 8, "station": "1 - 2", "type": "AZ","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 8, "station": "1 - 2", "obsid": 7, "type": "AZ","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -2927,7 +2927,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 9, "station": "1 - 3", "type": "AZ","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 9, "station": "1 - 3", "obsid": 8, "type": "AZ","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -2943,7 +2943,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 10, "station": "1 - 2", "type": "PB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 10, "station": "1 - 2", "obsid": 9, "type": "PB","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -2959,7 +2959,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 11, "station": "1 - 3", "type": "PB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 11, "station": "1 - 3", "obsid": 10, "type": "PB","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -2975,7 +2975,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 12, "station": "1 - 2", "type": "SD","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 12, "station": "1 - 2", "obsid": 11, "type": "SD","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -2991,7 +2991,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 13, "station": "1 - 3", "type": "SD","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 13, "station": "1 - 3", "obsid": 12, "type": "SD","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3007,7 +3007,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 14, "station": "1 - 2", "type": "ED","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 14, "station": "1 - 2", "obsid": 13, "type": "ED","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3023,7 +3023,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 15, "station": "1 - 3", "type": "ED","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 15, "station": "1 - 3", "obsid": 14, "type": "ED","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3039,7 +3039,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 16, "station": "1 - 2", "type": "MD","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 16, "station": "1 - 2", "obsid": 15, "type": "MD","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3055,7 +3055,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 17, "station": "1 - 3", "type": "MD","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 17, "station": "1 - 3", "obsid": 16, "type": "MD","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3071,7 +3071,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 18, "station": "4 - 5", "type": "MD","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 18, "station": "4 - 5", "obsid": 17, "type": "MD","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3087,7 +3087,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 19, "station": "1 - 5", "type": "MD","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 19, "station": "1 - 5", "obsid": 18, "type": "MD","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3103,7 +3103,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 20, "station": "1 - 2", "type": "HD","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 20, "station": "1 - 2", "obsid": 19, "type": "HD","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3119,7 +3119,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 21, "station": "1 - 3", "type": "HD","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 21, "station": "1 - 3", "obsid": 20, "type": "HD","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3135,7 +3135,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 22, "station": "1 - 2", "type": "DR","nobs": 2},
+  "source": {"file": "testobs.csv","lineno": 22, "station": "1 - 2", "obsid": 21, "type": "DR","nobs": 2},
   "nobs": 2,
   "obs": [
    {
@@ -3160,7 +3160,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 24, "station": "1 - 2", "type": "ZD","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 24, "station": "1 - 2", "obsid": 23, "type": "ZD","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3176,7 +3176,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 25, "station": "1 - 3", "type": "ZD","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 25, "station": "1 - 3", "obsid": 24, "type": "ZD","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3192,7 +3192,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 26, "station": "1 - 2", "type": "LV","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 26, "station": "1 - 2", "obsid": 25, "type": "LV","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3208,7 +3208,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 27, "station": "1 - 3", "type": "LV","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 27, "station": "1 - 3", "obsid": 26, "type": "LV","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3224,7 +3224,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 28, "station": "1", "type": "LN","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 28, "station": "1", "obsid": 27, "type": "LN","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3240,7 +3240,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 29, "station": "2", "type": "LN","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 29, "station": "2", "obsid": 28, "type": "LN","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3256,7 +3256,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 30, "station": "1", "type": "LT","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 30, "station": "1", "obsid": 29, "type": "LT","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3272,7 +3272,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 31, "station": "2", "type": "LT","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 31, "station": "2", "obsid": 30, "type": "LT","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3288,7 +3288,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 32, "station": "1 - 2", "type": "HA","nobs": 2},
+  "source": {"file": "testobs.csv","lineno": 32, "station": "1 - 2", "obsid": 31, "type": "HA","nobs": 2},
   "nobs": 2,
   "obs": [
    {
@@ -3313,7 +3313,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 34, "station": "2 - 1", "type": "HA","nobs": 2},
+  "source": {"file": "testobs.csv","lineno": 34, "station": "2 - 1", "obsid": 33, "type": "HA","nobs": 2},
   "nobs": 2,
   "obs": [
    {
@@ -3338,7 +3338,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 36, "station": "2 - 1", "type": "HA","nobs": 2},
+  "source": {"file": "testobs.csv","lineno": 36, "station": "2 - 1", "obsid": 35, "type": "HA","nobs": 2},
   "nobs": 2,
   "obs": [
    {
@@ -3363,7 +3363,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 38, "station": "1 - 2", "type": "AZ","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 38, "station": "1 - 2", "obsid": 37, "type": "AZ","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3379,7 +3379,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 39, "station": "1 - 3", "type": "AZ","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 39, "station": "1 - 3", "obsid": 38, "type": "AZ","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3395,7 +3395,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 40, "station": "1 - 2", "type": "PB","nobs": 2},
+  "source": {"file": "testobs.csv","lineno": 40, "station": "1 - 2", "obsid": 39, "type": "PB","nobs": 2},
   "nobs": 2,
   "obs": [
    {
@@ -3418,7 +3418,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 42, "station": "1 - 3", "type": "PB","nobs": 2},
+  "source": {"file": "testobs.csv","lineno": 42, "station": "1 - 3", "obsid": 41, "type": "PB","nobs": 2},
   "nobs": 2,
   "obs": [
    {
@@ -3441,7 +3441,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 44, "station": "1 - 2", "type": "ED","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 44, "station": "1 - 2", "obsid": 43, "type": "ED","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3457,7 +3457,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 45, "station": "1 - 3", "type": "ED","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 45, "station": "1 - 3", "obsid": 44, "type": "ED","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3473,7 +3473,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 46, "station": "1 - 2", "type": "ZD","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 46, "station": "1 - 2", "obsid": 45, "type": "ZD","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3489,7 +3489,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 47, "station": "1 - 3", "type": "ZD","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 47, "station": "1 - 3", "obsid": 46, "type": "ZD","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3505,7 +3505,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 48, "station": "1 - 2", "type": "LV","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 48, "station": "1 - 2", "obsid": 47, "type": "LV","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3521,7 +3521,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 49, "station": "1 - 3", "type": "LV","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 49, "station": "1 - 3", "obsid": 48, "type": "LV","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3537,7 +3537,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 50, "station": "1", "type": "LN","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 50, "station": "1", "obsid": 49, "type": "LN","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3553,7 +3553,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 51, "station": "2", "type": "LN","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 51, "station": "2", "obsid": 50, "type": "LN","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3569,7 +3569,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 52, "station": "1", "type": "LT","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 52, "station": "1", "obsid": 51, "type": "LT","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3585,7 +3585,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 53, "station": "2", "type": "LT","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 53, "station": "2", "obsid": 52, "type": "LT","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3601,7 +3601,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 54, "station": "1 - 2", "type": "HA","nobs": 2},
+  "source": {"file": "testobs.csv","lineno": 54, "station": "1 - 2", "obsid": 53, "type": "HA","nobs": 2},
   "nobs": 2,
   "obs": [
    {
@@ -3626,7 +3626,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 56, "station": "2 - 1", "type": "HA","nobs": 2},
+  "source": {"file": "testobs.csv","lineno": 56, "station": "2 - 1", "obsid": 55, "type": "HA","nobs": 2},
   "nobs": 2,
   "obs": [
    {
@@ -3651,7 +3651,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 58, "station": "2 - 1", "type": "HA","nobs": 2},
+  "source": {"file": "testobs.csv","lineno": 58, "station": "2 - 1", "obsid": 57, "type": "HA","nobs": 2},
   "nobs": 2,
   "obs": [
    {
@@ -3676,7 +3676,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 60, "station": "1 - 2", "type": "AZ","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 60, "station": "1 - 2", "obsid": 59, "type": "AZ","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3692,7 +3692,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 61, "station": "1 - 3", "type": "AZ","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 61, "station": "1 - 3", "obsid": 60, "type": "AZ","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3708,7 +3708,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 62, "station": "1 - 2", "type": "PB","nobs": 2},
+  "source": {"file": "testobs.csv","lineno": 62, "station": "1 - 2", "obsid": 61, "type": "PB","nobs": 2},
   "nobs": 2,
   "obs": [
    {
@@ -3731,7 +3731,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 64, "station": "1 - 3", "type": "PB","nobs": 2},
+  "source": {"file": "testobs.csv","lineno": 64, "station": "1 - 3", "obsid": 63, "type": "PB","nobs": 2},
   "nobs": 2,
   "obs": [
    {
@@ -3754,7 +3754,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 66, "station": "1", "type": "LN","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 66, "station": "1", "obsid": 65, "type": "LN","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3770,7 +3770,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 67, "station": "2", "type": "LN","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 67, "station": "2", "obsid": 66, "type": "LN","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3786,7 +3786,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 68, "station": "1", "type": "LT","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 68, "station": "1", "obsid": 67, "type": "LT","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3802,7 +3802,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 69, "station": "2", "type": "LT","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 69, "station": "2", "obsid": 68, "type": "LT","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3818,7 +3818,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 70, "station": "1", "type": "OH","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 70, "station": "1", "obsid": 69, "type": "OH","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3834,7 +3834,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 71, "station": "1", "type": "OH","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 71, "station": "1", "obsid": 70, "type": "OH","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3850,7 +3850,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 72, "station": "1", "type": "EH","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 72, "station": "1", "obsid": 71, "type": "EH","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3866,7 +3866,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 73, "station": "1", "type": "EH","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 73, "station": "1", "obsid": 72, "type": "EH","nobs": 1},
   "nobs": 1,
   "obs": [
    {
@@ -3882,7 +3882,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 74, "station": "1 - 2", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 74, "station": "1 - 2", "obsid": 73, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -3914,7 +3914,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 75, "station": "1 - 3", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 75, "station": "1 - 3", "obsid": 74, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -3946,7 +3946,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 76, "station": "1 - 2", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 76, "station": "1 - 2", "obsid": 75, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -3978,7 +3978,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 77, "station": "1 - 3", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 77, "station": "1 - 3", "obsid": 76, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4010,7 +4010,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 78, "station": "1 - 2", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 78, "station": "1 - 2", "obsid": 77, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4042,7 +4042,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 79, "station": "1 - 3", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 79, "station": "1 - 3", "obsid": 78, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4074,7 +4074,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 80, "station": "1 - 2", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 80, "station": "1 - 2", "obsid": 79, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4106,7 +4106,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 81, "station": "1 - 3", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 81, "station": "1 - 3", "obsid": 80, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4138,7 +4138,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 82, "station": "1 - 2", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 82, "station": "1 - 2", "obsid": 81, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4170,7 +4170,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 83, "station": "1 - 3", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 83, "station": "1 - 3", "obsid": 82, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4202,7 +4202,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 84, "station": "1 - 2", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 84, "station": "1 - 2", "obsid": 83, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4234,7 +4234,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 85, "station": "1 - 3", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 85, "station": "1 - 3", "obsid": 84, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4266,7 +4266,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 86, "station": "1 - 2", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 86, "station": "1 - 2", "obsid": 85, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4298,7 +4298,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 87, "station": "1 - 3", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 87, "station": "1 - 3", "obsid": 86, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4330,7 +4330,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 88, "station": "1 - 2", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 88, "station": "1 - 2", "obsid": 87, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4362,7 +4362,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 89, "station": "1 - 3", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 89, "station": "1 - 3", "obsid": 88, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4394,7 +4394,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 90, "station": "1 - 2", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 90, "station": "1 - 2", "obsid": 89, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4426,7 +4426,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 91, "station": "1 - 2", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 91, "station": "1 - 2", "obsid": 90, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4458,7 +4458,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 92, "station": "1 - 3", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 92, "station": "1 - 3", "obsid": 91, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4490,7 +4490,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 93, "station": "1 - 2", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 93, "station": "1 - 2", "obsid": 92, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4522,7 +4522,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 94, "station": "1 - 3", "type": "GB","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 94, "station": "1 - 3", "obsid": 93, "type": "GB","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4554,7 +4554,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 95, "station": "1", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 95, "station": "1", "obsid": 94, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4586,7 +4586,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 96, "station": "2", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 96, "station": "2", "obsid": 95, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4618,7 +4618,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 97, "station": "1", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 97, "station": "1", "obsid": 96, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4650,7 +4650,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 98, "station": "2", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 98, "station": "2", "obsid": 97, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4682,7 +4682,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 99, "station": "1", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 99, "station": "1", "obsid": 98, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4714,7 +4714,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 100, "station": "2", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 100, "station": "2", "obsid": 99, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4746,7 +4746,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 101, "station": "1", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 101, "station": "1", "obsid": 100, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4778,7 +4778,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 102, "station": "2", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 102, "station": "2", "obsid": 101, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4810,7 +4810,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 103, "station": "1", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 103, "station": "1", "obsid": 102, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4842,7 +4842,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 104, "station": "2", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 104, "station": "2", "obsid": 103, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4874,7 +4874,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 105, "station": "1", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 105, "station": "1", "obsid": 104, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4906,7 +4906,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 106, "station": "2", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 106, "station": "2", "obsid": 105, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4938,7 +4938,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 107, "station": "1", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 107, "station": "1", "obsid": 106, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -4970,7 +4970,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 108, "station": "2", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 108, "station": "2", "obsid": 107, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -5002,7 +5002,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 109, "station": "1", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 109, "station": "1", "obsid": 108, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -5034,7 +5034,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 110, "station": "2", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 110, "station": "2", "obsid": 109, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -5066,7 +5066,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 111, "station": "1", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 111, "station": "1", "obsid": 110, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -5098,7 +5098,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 112, "station": "1", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 112, "station": "1", "obsid": 111, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -5130,7 +5130,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 113, "station": "2", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 113, "station": "2", "obsid": 112, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -5162,7 +5162,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 114, "station": "1", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 114, "station": "1", "obsid": 113, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -5194,7 +5194,7 @@ BEGIN_JSON obs_equation_1
   ]
 },
 {
-  "source": {"file": "testobs.csv","lineno": 115, "station": "2", "type": "GX","nobs": 1},
+  "source": {"file": "testobs.csv","lineno": 115, "station": "2", "obsid": 114, "type": "GX","nobs": 1},
   "nobs": 3,
   "obs": [
    {
@@ -5232,7 +5232,7 @@ END_JSON obs_equation_1
 
 
 ================================================================================
-Regression test 1csv - CSV format data/coords                7-SEP-2018 09:39:23
+Regression test 1csv - CSV format data/coords                7-SEP-2018 14:38:03
 
                                 SOLUTION SUMMARY
 
@@ -5256,7 +5256,7 @@ You may have over-estimated the errors of the data.
 
 
 ================================================================================
-Regression test 1csv - CSV format data/coords                7-SEP-2018 09:39:23
+Regression test 1csv - CSV format data/coords                7-SEP-2018 14:38:03
 
                               STATION COORDINATES
 
@@ -5297,7 +5297,7 @@ Rejected stations are flagged #
 
 
 ================================================================================
-Regression test 1csv - CSV format data/coords                7-SEP-2018 09:39:23
+Regression test 1csv - CSV format data/coords                7-SEP-2018 14:38:03
 
                            REFERENCE FRAME PARAMETERS
 
@@ -5323,7 +5323,7 @@ Reference frame: GPS
 
 
 ================================================================================
-Regression test 1csv - CSV format data/coords                7-SEP-2018 09:39:23
+Regression test 1csv - CSV format data/coords                7-SEP-2018 14:38:03
 
                                 OTHER PARAMETERS
 
@@ -5338,7 +5338,7 @@ Refr coef DEFAULT                    0.00000       -
 
 
 ================================================================================
-Regression test 1csv - CSV format data/coords                7-SEP-2018 09:39:23
+Regression test 1csv - CSV format data/coords                7-SEP-2018 14:38:03
 
                              OBSERVATION RESIDUALS
 
@@ -5761,7 +5761,7 @@ File testobs.csv: line 108
 
 
 ================================================================================
-Regression test 1csv - CSV format data/coords                7-SEP-2018 09:39:23
+Regression test 1csv - CSV format data/coords                7-SEP-2018 14:38:03
 
                                  ERROR SUMMARY
 
@@ -5816,7 +5816,7 @@ longitude                                   0.00    4    0.00    2    0.00    6
 
 
 ================================================================================
-Regression test 1csv - CSV format data/coords                7-SEP-2018 09:39:23
+Regression test 1csv - CSV format data/coords                7-SEP-2018 14:38:03
 
                            MOST SIGNIFICANT RESIDUALS
 

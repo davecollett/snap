@@ -1,6 +1,6 @@
 ================================================================================
 
-                      PROGRAM SNAP  Version 2.7.14-3f3f047
+                      PROGRAM SNAP  Version 2.7.14-f49fb6c
 
                        Survey Network Adjustment Program
 
@@ -9,7 +9,7 @@
                        Version date: Sep  5 2018 13:25:47
 
 ================================================================================
-                     Run at  7-SEP-2018 09:39:23 by ccrook
+                     Run at  7-SEP-2018 14:38:04 by ccrook
 
 
 
@@ -36,7 +36,7 @@ Data file 2: testdef3xyz.dat
 
 
 ================================================================================
-Test data set testdef3 - LINZ deformation model format       7-SEP-2018 09:39:23
+Test data set testdef3 - LINZ deformation model format       7-SEP-2018 14:38:04
 
                                ITERATION SUMMARY
 
@@ -175,7 +175,7 @@ Deformation at N4   , 2025.00 (-0.2498, 0.6585, 0.0000)  Node N4
 
 
 ================================================================================
-Test data set testdef3 - LINZ deformation model format       7-SEP-2018 09:39:23
+Test data set testdef3 - LINZ deformation model format       7-SEP-2018 14:38:04
 
                                 SOLUTION SUMMARY
 
@@ -200,7 +200,7 @@ or the fixed stations may be incorrectly positioned
 
 
 ================================================================================
-Test data set testdef3 - LINZ deformation model format       7-SEP-2018 09:39:23
+Test data set testdef3 - LINZ deformation model format       7-SEP-2018 14:38:04
 
                               STATION COORDINATES
 
@@ -245,7 +245,7 @@ Rejected stations are flagged #
 
 
 ================================================================================
-Test data set testdef3 - LINZ deformation model format       7-SEP-2018 09:39:23
+Test data set testdef3 - LINZ deformation model format       7-SEP-2018 14:38:04
 
                            REFERENCE FRAME PARAMETERS
 
@@ -271,7 +271,7 @@ Reference frame: GPS
 
 
 ================================================================================
-Test data set testdef3 - LINZ deformation model format       7-SEP-2018 09:39:23
+Test data set testdef3 - LINZ deformation model format       7-SEP-2018 14:38:04
 
                              OBSERVATION RESIDUALS
 
@@ -423,7 +423,7 @@ N4    GX    -4877996.3810  0.0829  -4877996.7870  0.0000  0.2494  0.0500   4.99 
 
 
 ================================================================================
-Test data set testdef3 - LINZ deformation model format       7-SEP-2018 09:39:23
+Test data set testdef3 - LINZ deformation model format       7-SEP-2018 14:38:04
 
                                  ERROR SUMMARY
 
@@ -461,7 +461,7 @@ testdef3xyz.dat                            67.63   39     -      -   67.63   39
 
 
 ================================================================================
-Test data set testdef3 - LINZ deformation model format       7-SEP-2018 09:39:23
+Test data set testdef3 - LINZ deformation model format       7-SEP-2018 14:38:04
 
                            MOST SIGNIFICANT RESIDUALS
 

@@ -1,6 +1,6 @@
 ================================================================================
 
-                      PROGRAM SNAP  Version 2.7.14-3f3f047
+                      PROGRAM SNAP  Version 2.7.14-f49fb6c
 
                        Survey Network Adjustment Program
 
@@ -9,13 +9,13 @@
                        Version date: Sep  5 2018 13:25:47
 
 ================================================================================
-                     Run at  7-SEP-2018 09:39:23 by ccrook
+                     Run at  7-SEP-2018 14:38:04 by ccrook
 
 
 
 
 ================================================================================
-Regression test om1 - obs modifications - invalid specification should cause er    7-SEP-2018 09:39:23
+Regression test om1 - obs modifications - invalid specification should cause er    7-SEP-2018 14:38:04
 
                                      ERRORS
 
