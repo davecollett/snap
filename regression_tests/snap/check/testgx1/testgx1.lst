@@ -1,15 +1,15 @@
 ================================================================================
 
-                      PROGRAM SNAP  Version 2.7.14-f49fb6c
+                      PROGRAM SNAP  Version 2.7.14-f90eaf0
 
                        Survey Network Adjustment Program
 
                     Copyright: Land Information New Zealand
                               Author: Chris Crook
-                       Version date: Sep  5 2018 13:25:47
+                       Version date: Sep  8 2018 08:54:01
 
 ================================================================================
-                     Run at  7-SEP-2018 14:38:04 by ccrook
+                     Run at  8-SEP-2018 09:03:50 by ccrook
 
 
 The command file testgx1.snp contains:
@@ -42,7 +42,7 @@ The command file testgx1.snp contains:
 
 
 ================================================================================
-Regression test 1 - data types and observation equations     7-SEP-2018 14:38:04
+Regression test 1 - data types and observation equations     8-SEP-2018 09:03:50
 
                              SUMMARY OF INPUT FILES
 
@@ -67,7 +67,7 @@ Data file 1: testgx1.dat
 
 
 ================================================================================
-Regression test 1 - data types and observation equations     7-SEP-2018 14:38:04
+Regression test 1 - data types and observation equations     8-SEP-2018 09:03:50
 
                                    INPUT DATA
 
@@ -93,6 +93,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -120,6 +121,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -147,6 +149,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -163,6 +166,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -193,6 +197,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -220,6 +225,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -247,6 +253,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -263,6 +270,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -293,6 +301,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -320,6 +329,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -347,6 +357,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -363,6 +374,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -393,6 +405,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -420,6 +433,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -447,6 +461,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -463,6 +478,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -493,6 +509,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -520,6 +537,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -547,6 +565,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -574,6 +593,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -590,6 +610,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -617,7 +638,7 @@ END_JSON observations
 
 
 ================================================================================
-Regression test 1 - data types and observation equations     7-SEP-2018 14:38:04
+Regression test 1 - data types and observation equations     8-SEP-2018 09:03:50
 
                              DEFINITION OF PROBLEM
 
@@ -639,7 +660,7 @@ Station  Adj  Row  Name
 
 
 ================================================================================
-Regression test 1 - data types and observation equations     7-SEP-2018 14:38:04
+Regression test 1 - data types and observation equations     8-SEP-2018 09:03:50
 
                              OBSERVATION EQUATIONS
 
@@ -1288,7 +1309,7 @@ END_JSON obs_equation_1
 
 
 ================================================================================
-Regression test 1 - data types and observation equations     7-SEP-2018 14:38:04
+Regression test 1 - data types and observation equations     8-SEP-2018 09:03:50
 
                                 SOLUTION SUMMARY
 
@@ -1311,7 +1332,7 @@ You may have over-estimated the errors of the data.
 
 
 ================================================================================
-Regression test 1 - data types and observation equations     7-SEP-2018 14:38:04
+Regression test 1 - data types and observation equations     8-SEP-2018 09:03:50
 
                               STATION COORDINATES
 
@@ -1345,7 +1366,7 @@ Rejected stations are flagged #
 
 
 ================================================================================
-Regression test 1 - data types and observation equations     7-SEP-2018 14:38:04
+Regression test 1 - data types and observation equations     8-SEP-2018 09:03:50
 
                            REFERENCE FRAME PARAMETERS
 
@@ -1371,7 +1392,7 @@ Reference frame: GPS
 
 
 ================================================================================
-Regression test 1 - data types and observation equations     7-SEP-2018 14:38:04
+Regression test 1 - data types and observation equations     8-SEP-2018 09:03:50
 
                                 OTHER PARAMETERS
 
@@ -1386,7 +1407,7 @@ Refr coef DEFAULT                    0.00000       -
 
 
 ================================================================================
-Regression test 1 - data types and observation equations     7-SEP-2018 14:38:04
+Regression test 1 - data types and observation equations     8-SEP-2018 09:03:50
 
                              OBSERVATION RESIDUALS
 
@@ -1522,7 +1543,7 @@ File testgx1.dat: line 79
 
 
 ================================================================================
-Regression test 1 - data types and observation equations     7-SEP-2018 14:38:04
+Regression test 1 - data types and observation equations     8-SEP-2018 09:03:50
 
                                  ERROR SUMMARY
 

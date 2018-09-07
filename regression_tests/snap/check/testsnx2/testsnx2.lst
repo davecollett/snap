@@ -1,15 +1,15 @@
 ================================================================================
 
-                      PROGRAM SNAP  Version 2.7.14-f49fb6c
+                      PROGRAM SNAP  Version 2.7.14-f90eaf0
 
                        Survey Network Adjustment Program
 
                     Copyright: Land Information New Zealand
                               Author: Chris Crook
-                       Version date: Sep  5 2018 13:25:47
+                       Version date: Sep  8 2018 08:54:01
 
 ================================================================================
-                     Run at  7-SEP-2018 14:38:04 by ccrook
+                     Run at  8-SEP-2018 09:03:50 by ccrook
 
 
 
@@ -31,7 +31,7 @@ Data file 1: testsnx2.in.snx
 
 
 ================================================================================
-Testing SINEX file reading                                   7-SEP-2018 14:38:04
+Testing SINEX file reading                                   8-SEP-2018 09:03:50
 
                                    INPUT DATA
 
@@ -57,6 +57,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2001-11-29 11:59:45",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4590634.419237,-275479.222371,-4404636.369777],
         "ref_frame": "GNSS",
         "classifications": {
@@ -73,6 +74,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2001-11-29 11:59:45",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4052051.935270,4212836.026324,-2545105.489619],
         "ref_frame": "GNSS",
         "classifications": {
@@ -89,6 +91,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2001-11-29 11:59:45",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-5105681.031846,461563.962667,-3782181.514409],
         "ref_frame": "GNSS",
         "classifications": {
@@ -105,6 +108,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2001-11-29 11:59:45",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4590670.952630,-275482.884444,-4404596.591508],
         "ref_frame": "GNSS",
         "classifications": {
@@ -121,6 +125,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2001-11-29 11:59:45",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-3950071.457469,2522415.154055,-4311638.080133],
         "ref_frame": "GNSS",
         "classifications": {
@@ -137,6 +142,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2001-11-29 11:59:45",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4635696.979922,735523.136974,-4304158.486641],
         "ref_frame": "GNSS",
         "classifications": {
@@ -153,6 +159,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2001-11-29 11:59:45",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-2713832.370824,5303935.048842,-2269514.663863],
         "ref_frame": "GNSS",
         "classifications": {
@@ -169,6 +176,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2001-11-29 11:59:45",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-3464038.491823,1334172.776182,-5169224.147878],
         "ref_frame": "GNSS",
         "classifications": {
@@ -185,6 +193,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2001-11-29 11:59:45",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4460996.217574,2682557.007550,-3674443.392541],
         "ref_frame": "GNSS",
         "classifications": {
@@ -201,6 +210,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2001-11-29 11:59:45",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-5054582.768689,3275504.320608,-2091539.362417],
         "ref_frame": "GNSS",
         "classifications": {
@@ -217,6 +227,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2001-11-29 11:59:45",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4777269.350824,434270.043956,-4189484.432148],
         "ref_frame": "GNSS",
         "classifications": {
@@ -233,6 +244,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2001-11-29 11:59:45",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-2389025.656548,5043316.855581,-3078530.405449],
         "ref_frame": "GNSS",
         "classifications": {
@@ -398,7 +410,7 @@ END_JSON observations
 
 
 ================================================================================
-Testing SINEX file reading                                   7-SEP-2018 14:38:04
+Testing SINEX file reading                                   8-SEP-2018 09:03:50
 
                                 SOLUTION SUMMARY
 
@@ -421,7 +433,7 @@ You may have over-estimated the errors of the data.
 
 
 ================================================================================
-Testing SINEX file reading                                   7-SEP-2018 14:38:04
+Testing SINEX file reading                                   8-SEP-2018 09:03:50
 
                               STATION COORDINATES
 
@@ -510,7 +522,7 @@ Rejected stations are flagged #
 
 
 ================================================================================
-Testing SINEX file reading                                   7-SEP-2018 14:38:04
+Testing SINEX file reading                                   8-SEP-2018 09:03:50
 
                            REFERENCE FRAME PARAMETERS
 
@@ -536,7 +548,7 @@ Reference frame: GNSS
 
 
 ================================================================================
-Testing SINEX file reading                                   7-SEP-2018 14:38:04
+Testing SINEX file reading                                   8-SEP-2018 09:03:50
 
                              OBSERVATION RESIDUALS
 
@@ -625,7 +637,7 @@ YAR1   GX    -2389025.6565  0.0061  -2389025.6567  0.0000  0.0000  0.0050   0.00
 
 
 ================================================================================
-Testing SINEX file reading                                   7-SEP-2018 14:38:04
+Testing SINEX file reading                                   8-SEP-2018 09:03:50
 
                                  ERROR SUMMARY
 
@@ -647,7 +659,7 @@ GPS point coord                             0.03   36     -      -    0.03   36
 
 
 ================================================================================
-Testing SINEX file reading                                   7-SEP-2018 14:38:04
+Testing SINEX file reading                                   8-SEP-2018 09:03:50
 
                            MOST SIGNIFICANT RESIDUALS
 
@@ -690,7 +702,7 @@ HOKI             GX     0.015    0.001        187  testsnx2.in.snx
 
 
 ================================================================================
-Testing SINEX file reading                                   7-SEP-2018 14:38:04
+Testing SINEX file reading                                   8-SEP-2018 09:03:50
 
                                      ERRORS
 

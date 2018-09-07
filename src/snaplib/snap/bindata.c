@@ -594,6 +594,7 @@ void print_json_observations( FILE *out )
                 fprintf( out, "        \"date\":\"%s\",\n",date_as_string(sd->date,0,0));
             }
             fprintf( out, "        \"type\":\"%s\",\n",datatype[tgt->type].code);
+            fprintf( out, "        \"errfct\":%.4lf,\n",tgt->errfct);
 
             switch( sd->format )
             {

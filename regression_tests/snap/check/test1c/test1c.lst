@@ -1,15 +1,15 @@
 ================================================================================
 
-                      PROGRAM SNAP  Version 2.7.14-f49fb6c
+                      PROGRAM SNAP  Version 2.7.14-f90eaf0
 
                        Survey Network Adjustment Program
 
                     Copyright: Land Information New Zealand
                               Author: Chris Crook
-                       Version date: Sep  5 2018 13:25:47
+                       Version date: Sep  8 2018 08:54:01
 
 ================================================================================
-                     Run at  7-SEP-2018 14:38:03 by ccrook
+                     Run at  8-SEP-2018 09:03:50 by ccrook
 
 
 The command file test1c.snp contains:
@@ -47,7 +47,7 @@ The command file test1c.snp contains:
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                              SUMMARY OF INPUT FILES
 
@@ -88,7 +88,7 @@ Data file 1: test1.dat
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                                    INPUT DATA
 
@@ -131,6 +131,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":null,
         "type":"HA",
+        "errfct":1.0000,
         "value": [141.4710556],
         "error": [0.005555556],
         "useobs":true,
@@ -146,6 +147,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":null,
         "type":"HA",
+        "errfct":1.0000,
         "value": [161.1906389],
         "error": [0.005555556],
         "useobs":true,
@@ -166,6 +168,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":null,
         "type":"HA",
+        "errfct":1.0000,
         "value": [1.4664722],
         "error": [0.005555556],
         "useobs":true,
@@ -181,6 +184,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":null,
         "type":"HA",
+        "errfct":1.0000,
         "value": [244.7911389],
         "error": [0.005555556],
         "useobs":true,
@@ -201,6 +205,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":null,
         "type":"HA",
+        "errfct":1.0000,
         "value": [121.4664722],
         "error": [0.005555556],
         "useobs":true,
@@ -216,6 +221,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":null,
         "type":"HA",
+        "errfct":1.0000,
         "value": [4.7911389],
         "error": [0.005555556],
         "useobs":true,
@@ -236,6 +242,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"AZ",
+        "errfct":1.0000,
         "value": [41.4710556],
         "error": [0.001111111],
         "useobs":true,
@@ -256,6 +263,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"AZ",
+        "errfct":1.0000,
         "value": [61.1906389],
         "error": [0.001111111],
         "useobs":true,
@@ -276,6 +284,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"PB",
+        "errfct":1.0000,
         "value": [40.5157778],
         "error": [0.001111111],
         "projection": "WELLTM1949",
@@ -300,6 +309,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"PB",
+        "errfct":1.0000,
         "value": [60.2353611],
         "error": [0.001111111],
         "projection": "WELLTM1949",
@@ -324,6 +334,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"SD",
+        "errfct":1.0000,
         "value": [894.901400],
         "error": [0.00220000],
         "useobs":true,
@@ -344,6 +355,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"SD",
+        "errfct":1.0000,
         "value": [1154.943800],
         "error": [0.00230000],
         "useobs":true,
@@ -364,6 +376,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"ED",
+        "errfct":1.0000,
         "value": [889.268700],
         "error": [0.01030000],
         "useobs":true,
@@ -384,6 +397,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"ED",
+        "errfct":1.0000,
         "value": [1152.150000],
         "error": [0.01060000],
         "useobs":true,
@@ -404,6 +418,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"MD",
+        "errfct":1.0000,
         "value": [889.268700],
         "error": [0.01030000],
         "useobs":true,
@@ -424,6 +439,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"MD",
+        "errfct":1.0000,
         "value": [1152.150000],
         "error": [0.01060000],
         "useobs":true,
@@ -444,6 +460,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"MD",
+        "errfct":1.0000,
         "value": [889.268700],
         "error": [0.01030000],
         "useobs":true,
@@ -464,6 +481,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"MD",
+        "errfct":1.0000,
         "value": [889.268700],
         "error": [0.01030000],
         "useobs":true,
@@ -484,6 +502,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"HD",
+        "errfct":1.0000,
         "value": [889.296600],
         "error": [0.00440000],
         "useobs":true,
@@ -504,6 +523,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"HD",
+        "errfct":1.0000,
         "value": [1152.169800],
         "error": [0.00460000],
         "useobs":true,
@@ -524,6 +544,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"DR",
+        "errfct":1.0000,
         "value": [894.946100],
         "error": [0.00220000],
         "useobs":true,
@@ -539,6 +560,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"DR",
+        "errfct":1.0000,
         "value": [1155.001500],
         "error": [0.00230000],
         "useobs":true,
@@ -559,6 +581,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"ZD",
+        "errfct":1.0000,
         "value": [83.5881389],
         "error": [0.001388889],
         "classifications": {
@@ -582,6 +605,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"ZD",
+        "errfct":1.0000,
         "value": [93.9770833],
         "error": [0.001388889],
         "classifications": {
@@ -605,6 +629,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"LV",
+        "errfct":1.0000,
         "value": [100.000000],
         "error": [0.01000000],
         "useobs":true,
@@ -625,6 +650,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"LV",
+        "errfct":1.0000,
         "value": [-80.000000],
         "error": [0.03000000],
         "useobs":true,
@@ -645,6 +671,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"LN",
+        "errfct":1.0000,
         "value": [173.32100000],
         "error": [0.0000555556],
         "useobs":true,
@@ -665,6 +692,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"LN",
+        "errfct":1.0000,
         "value": [173.32800000],
         "error": [0.0000833333],
         "useobs":true,
@@ -685,6 +713,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"LT",
+        "errfct":1.0000,
         "value": [-41.01300000],
         "error": [0.0000555556],
         "useobs":true,
@@ -705,6 +734,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2008-01-01 00:00:00",
         "type":"LT",
+        "errfct":1.0000,
         "value": [-41.00700000],
         "error": [0.0000833333],
         "useobs":true,
@@ -725,6 +755,7 @@ BEGIN_JSON observations
         "to_hgt":1.5000,
         "date":"2009-12-23 00:00:00",
         "type":"HA",
+        "errfct":1.0000,
         "value": [141.4710556],
         "error": [0.005555556],
         "classifications": {
@@ -743,6 +774,7 @@ BEGIN_JSON observations
         "to_hgt":-1.5000,
         "date":"2009-12-23 00:00:00",
         "type":"HA",
+        "errfct":1.0000,
         "value": [161.1906389],
         "error": [0.005555556],
         "classifications": {
@@ -766,6 +798,7 @@ BEGIN_JSON observations
         "to_hgt":1.8000,
         "date":"2009-12-23 00:00:00",
         "type":"HA",
+        "errfct":1.0000,
         "value": [1.4664722],
         "error": [0.005555556],
         "classifications": {
@@ -784,6 +817,7 @@ BEGIN_JSON observations
         "to_hgt":1.8000,
         "date":"2009-12-23 00:00:00",
         "type":"HA",
+        "errfct":1.0000,
         "value": [244.7911389],
         "error": [0.005555556],
         "classifications": {
@@ -807,6 +841,7 @@ BEGIN_JSON observations
         "to_hgt":0.2000,
         "date":"2009-12-23 00:00:00",
         "type":"HA",
+        "errfct":1.0000,
         "value": [121.4664722],
         "error": [0.005555556],
         "classifications": {
@@ -825,6 +860,7 @@ BEGIN_JSON observations
         "to_hgt":3.0000,
         "date":"2009-12-23 00:00:00",
         "type":"HA",
+        "errfct":1.0000,
         "value": [4.7911389],
         "error": [0.005555556],
         "classifications": {
@@ -848,6 +884,7 @@ BEGIN_JSON observations
         "to_hgt":1.5000,
         "date":"2009-12-23 00:00:00",
         "type":"AZ",
+        "errfct":1.0000,
         "value": [41.4710556],
         "error": [0.001111111],
         "classifications": {
@@ -871,6 +908,7 @@ BEGIN_JSON observations
         "to_hgt":1.5000,
         "date":"2009-12-23 00:00:00",
         "type":"AZ",
+        "errfct":1.0000,
         "value": [61.1906389],
         "error": [0.001111111],
         "classifications": {
@@ -894,6 +932,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"PB",
+        "errfct":1.0000,
         "value": [40.5157778],
         "error": [0.001111111],
         "projection": "WELLTM1949",
@@ -913,6 +952,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"SD",
+        "errfct":1.0000,
         "value": [894.901400],
         "error": [0.00220000],
         "useobs":true,
@@ -933,6 +973,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"PB",
+        "errfct":1.0000,
         "value": [60.2353611],
         "error": [0.001111111],
         "projection": "WELLTM1949",
@@ -952,6 +993,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"SD",
+        "errfct":1.0000,
         "value": [1154.943800],
         "error": [0.00230000],
         "useobs":false,
@@ -972,6 +1014,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"ED",
+        "errfct":1.0000,
         "value": [889.268700],
         "error": [0.01030000],
         "classifications": {
@@ -996,6 +1039,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"ED",
+        "errfct":1.0000,
         "value": [1152.150000],
         "error": [0.01060000],
         "classifications": {
@@ -1020,6 +1064,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"ZD",
+        "errfct":1.0000,
         "value": [83.5881389],
         "error": [0.001388889],
         "classifications": {
@@ -1043,6 +1088,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"ZD",
+        "errfct":1.0000,
         "value": [93.9770833],
         "error": [0.001388889],
         "classifications": {
@@ -1066,6 +1112,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"LV",
+        "errfct":1.0000,
         "value": [100.000000],
         "error": [0.01000000],
         "useobs":true,
@@ -1086,6 +1133,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"LV",
+        "errfct":1.0000,
         "value": [-80.000000],
         "error": [0.03000000],
         "useobs":true,
@@ -1106,6 +1154,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"LN",
+        "errfct":1.0000,
         "value": [173.32100000],
         "error": [0.0000555556],
         "classifications": {
@@ -1130,6 +1179,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"LN",
+        "errfct":1.0000,
         "value": [173.32800000],
         "error": [0.0000833333],
         "classifications": {
@@ -1154,6 +1204,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"LT",
+        "errfct":1.0000,
         "value": [-41.01300000],
         "error": [0.0000555556],
         "classifications": {
@@ -1178,6 +1229,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"LT",
+        "errfct":1.0000,
         "value": [-41.00700000],
         "error": [0.0000833333],
         "classifications": {
@@ -1202,6 +1254,7 @@ BEGIN_JSON observations
         "to_hgt":1.5000,
         "date":"2009-12-23 00:00:00",
         "type":"HA",
+        "errfct":1.0000,
         "value": [141.4710556],
         "error": [0.005000000],
         "classifications": {
@@ -1220,6 +1273,7 @@ BEGIN_JSON observations
         "to_hgt":-1.5000,
         "date":"2009-12-23 00:00:00",
         "type":"HA",
+        "errfct":1.0000,
         "value": [161.1906389],
         "error": [0.005000000],
         "classifications": {
@@ -1243,6 +1297,7 @@ BEGIN_JSON observations
         "to_hgt":1.8000,
         "date":"2009-12-23 00:00:00",
         "type":"HA",
+        "errfct":1.0000,
         "value": [1.4664722],
         "error": [0.005000000],
         "classifications": {
@@ -1261,6 +1316,7 @@ BEGIN_JSON observations
         "to_hgt":1.8000,
         "date":"2009-12-23 00:00:00",
         "type":"HA",
+        "errfct":1.0000,
         "value": [244.7911390],
         "error": [0.005000000],
         "classifications": {
@@ -1284,6 +1340,7 @@ BEGIN_JSON observations
         "to_hgt":0.2000,
         "date":"2009-12-23 00:00:00",
         "type":"HA",
+        "errfct":1.0000,
         "value": [121.4664720],
         "error": [0.005000000],
         "classifications": {
@@ -1302,6 +1359,7 @@ BEGIN_JSON observations
         "to_hgt":3.0000,
         "date":"2009-12-23 00:00:00",
         "type":"HA",
+        "errfct":1.0000,
         "value": [4.7911400],
         "error": [0.005000000],
         "classifications": {
@@ -1325,6 +1383,7 @@ BEGIN_JSON observations
         "to_hgt":1.5000,
         "date":"2009-12-23 00:00:00",
         "type":"AZ",
+        "errfct":1.0000,
         "value": [41.4710556],
         "error": [0.000100000],
         "classifications": {
@@ -1348,6 +1407,7 @@ BEGIN_JSON observations
         "to_hgt":1.5000,
         "date":"2009-12-23 00:00:00",
         "type":"AZ",
+        "errfct":1.0000,
         "value": [61.1906389],
         "error": [0.000100000],
         "classifications": {
@@ -1371,6 +1431,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"PB",
+        "errfct":1.0000,
         "value": [40.5157720],
         "error": [0.001000000],
         "projection": "WELLTM1949",
@@ -1390,6 +1451,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"SD",
+        "errfct":1.0000,
         "value": [894.901400],
         "error": [0.00220000],
         "useobs":true,
@@ -1410,6 +1472,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"PB",
+        "errfct":1.0000,
         "value": [60.2353496],
         "error": [0.001000000],
         "projection": "WELLTM1949",
@@ -1429,6 +1492,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"SD",
+        "errfct":1.0000,
         "value": [1154.943800],
         "error": [0.00230000],
         "useobs":false,
@@ -1449,6 +1513,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"LN",
+        "errfct":1.0000,
         "value": [173.32100000],
         "error": [0.0002000000],
         "classifications": {
@@ -1473,6 +1538,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"LN",
+        "errfct":1.0000,
         "value": [173.32800000],
         "error": [0.0003000000],
         "classifications": {
@@ -1497,6 +1563,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"LT",
+        "errfct":1.0000,
         "value": [-41.01300000],
         "error": [0.0002000000],
         "classifications": {
@@ -1521,6 +1588,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"LT",
+        "errfct":1.0000,
         "value": [-41.00700000],
         "error": [0.0003000000],
         "classifications": {
@@ -1545,6 +1613,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"OH",
+        "errfct":1.0000,
         "value": [150.000000],
         "error": [2.00000000],
         "useobs":true,
@@ -1565,6 +1634,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"OH",
+        "errfct":1.0000,
         "value": [152.000000],
         "error": [0.20000000],
         "useobs":true,
@@ -1585,6 +1655,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"EH",
+        "errfct":1.0000,
         "value": [150.000000],
         "error": [2.00000000],
         "useobs":true,
@@ -1605,6 +1676,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"EH",
+        "errfct":1.0000,
         "value": [152.000000],
         "error": [0.20000000],
         "useobs":true,
@@ -1625,6 +1697,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-577.703600,-525.308100,437.226700],
         "ref_frame": "GPS",
         "classifications": {
@@ -1654,6 +1727,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-419.246800,-967.358700,471.516500],
         "ref_frame": "GPS",
         "classifications": {
@@ -1683,6 +1757,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-577.703600,-525.308100,437.216700],
         "ref_frame": "GPS",
         "classifications": {
@@ -1701,6 +1776,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-419.266800,-967.358700,471.516500],
         "ref_frame": "GPS",
         "classifications": {
@@ -1733,6 +1809,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-577.703600,-525.308100,437.216700],
         "ref_frame": "GPS",
         "classifications": {
@@ -1762,6 +1839,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-419.266800,-967.358700,471.516500],
         "ref_frame": "GPS",
         "classifications": {
@@ -1791,6 +1869,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-577.703600,-525.308100,437.216700],
         "ref_frame": "GPS",
         "classifications": {
@@ -1809,6 +1888,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-419.266800,-967.358700,471.516500],
         "ref_frame": "GPS",
         "classifications": {
@@ -1841,6 +1921,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-577.703600,-525.308100,437.216700],
         "ref_frame": "GPS",
         "classifications": {
@@ -1870,6 +1951,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-419.266800,-967.358700,471.516500],
         "ref_frame": "GPS",
         "classifications": {
@@ -1899,6 +1981,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-577.703600,-525.308100,437.216700],
         "ref_frame": "GPS",
         "classifications": {
@@ -1917,6 +2000,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-419.266800,-967.358700,471.516500],
         "ref_frame": "GPS",
         "classifications": {
@@ -1949,6 +2033,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-577.703600,-525.308100,437.216700],
         "ref_frame": "GPS",
         "classifications": {
@@ -1978,6 +2063,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-419.266800,-967.358700,471.516500],
         "ref_frame": "GPS",
         "classifications": {
@@ -2007,6 +2093,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-577.703600,-525.308100,437.216700],
         "ref_frame": "GPS",
         "classifications": {
@@ -2025,6 +2112,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-419.266800,-967.358700,471.516500],
         "ref_frame": "GPS",
         "classifications": {
@@ -2057,6 +2145,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-577.703600,-525.308100,437.216700],
         "ref_frame": "GPS",
         "classifications": {
@@ -2086,6 +2175,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-577.703600,-525.308100,437.216700],
         "ref_frame": "GPS",
         "classifications": {
@@ -2115,6 +2205,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-419.266800,-967.358700,471.516500],
         "ref_frame": "GPS",
         "classifications": {
@@ -2144,6 +2235,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-577.703600,-525.308100,437.216700],
         "ref_frame": "GPS",
         "classifications": {
@@ -2162,6 +2254,7 @@ BEGIN_JSON observations
         "to_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GB",
+        "errfct":1.0000,
         "value": [-419.266800,-967.358700,471.516500],
         "ref_frame": "GPS",
         "classifications": {
@@ -2192,6 +2285,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -2219,6 +2313,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -2246,6 +2341,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -2262,6 +2358,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -2292,6 +2389,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -2319,6 +2417,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -2346,6 +2445,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -2362,6 +2462,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -2392,6 +2493,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -2419,6 +2521,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -2446,6 +2549,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -2462,6 +2566,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -2492,6 +2597,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -2519,6 +2625,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -2546,6 +2653,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -2562,6 +2670,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -2592,6 +2701,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -2619,6 +2729,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -2646,6 +2757,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -2673,6 +2785,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787264.520000,560595.570400,-4163681.802300],
         "ref_frame": "GPS",
         "classifications": {
@@ -2689,6 +2802,7 @@ BEGIN_JSON observations
         "from_hgt":0.0000,
         "date":"2009-12-23 00:00:00",
         "type":"GX",
+        "errfct":1.0000,
         "value": [-4787842.223600,560070.262300,-4163244.585600],
         "ref_frame": "GPS",
         "classifications": {
@@ -2716,7 +2830,7 @@ END_JSON observations
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                              DEFINITION OF PROBLEM
 
@@ -2752,7 +2866,7 @@ Station  Name
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                                ITERATION NUMBER 1
 
@@ -2761,7 +2875,7 @@ Regression test 1b - float stations                          7-SEP-2018 14:38:03
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                              OBSERVATION EQUATIONS
 
@@ -5194,7 +5308,7 @@ Iteration 1: Maximum change is 0.0021 metres at station 5
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                                ITERATION NUMBER 2
 
@@ -5203,7 +5317,7 @@ Regression test 1b - float stations                          7-SEP-2018 14:38:03
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                              OBSERVATION EQUATIONS
 
@@ -7636,7 +7750,7 @@ Iteration 2: Maximum change is 0.0000 metres at station 5
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                                 SOLUTION SUMMARY
 
@@ -7660,7 +7774,7 @@ You may have over-estimated the errors of the data.
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                               STATION COORDINATES
 
@@ -7701,7 +7815,7 @@ Rejected stations are flagged #
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                                 FLOATED STATIONS
 
@@ -7729,7 +7843,7 @@ Code    coord      error      calc.err    residual    adj.err    std.res
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                            REFERENCE FRAME PARAMETERS
 
@@ -7755,7 +7869,7 @@ Reference frame: GPS
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                                 OTHER PARAMETERS
 
@@ -7770,7 +7884,7 @@ Refr coef DEFAULT                    0.00000       -
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                              OBSERVATION RESIDUALS
 
@@ -8191,7 +8305,7 @@ File test1.dat: line 391
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                                  ERROR SUMMARY
 
@@ -8246,7 +8360,7 @@ longitude                                   0.00    4    0.00    2    0.00    6
 
 
 ================================================================================
-Regression test 1b - float stations                          7-SEP-2018 14:38:03
+Regression test 1b - float stations                          8-SEP-2018 09:03:50
 
                            MOST SIGNIFICANT RESIDUALS
 
